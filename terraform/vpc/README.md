@@ -1,3 +1,7 @@
+## 추가설명
+- VPC 생성
+- 인터넷 게이트웨이 생성
+
 <!-- BEGIN_TF_DOCS -->
 ## Requirements
 
